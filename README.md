@@ -14,7 +14,9 @@
 7- git commit --amend           `PERMITE MODIFICAR EL ULTIMO commit EFECTUADO` 
                                 `abre archivo git > modificar, cerrar y listo`
 
-8- git checkout -b rama-heroes  `CREAR NUEVA RAMA !!IMPORTANTE: NO TRABAJAR EN RAMA "main" / "master"`
+8- git checkout -b rama-heroes  `TRASLADA A NUEVA RAMA !!IMPORTANTE: NO TRABAJAR EN RAMA "main" / "master"`
+8- git branch                   `MUESTRA LAS RAMAS`
+
 #- git                          `DESC`
 #- git                          `DESC`
 #- git                          `DESC`
