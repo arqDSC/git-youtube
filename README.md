@@ -17,7 +17,7 @@
 8- git checkout -b rama-heroes  ` TRASLADA A NUEVA RAMA !!IMPORTANTE: NO TRABAJAR EN RAMA "main" / "master" `
 8- git branch                   ` MUESTRA LAS RAMAS `
 
-#- git                          ` DESC `
+9- git checkout master          ` VUELVE A LA RAMA "master" `
 #- git                          ` DESC `
 #- git                          ` DESC `
 #- git                          ` DESC `
