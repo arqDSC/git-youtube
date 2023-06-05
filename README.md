@@ -19,9 +19,9 @@
 
 9.  git checkout master          ` PASA A LA RAMA "master" `
 
-9-  git merge rama-heroes        ` UNE DOS RAMAS `
-10- git branch -d rama-heroes    ` ELIMINAR UNA RAMA `
+9.  git merge rama-heroes        ` UNE DOS RAMAS `
+10. git branch -d rama-heroes    ` ELIMINAR UNA RAMA `
 
-#-  git                          ` DESC `
-#-  git                          ` DESC `
+11. git push                     ` ENVIA A REPOSITORIO REMOTO `
+12. git commit -am               ` EJECUTA SIMULTANEAMENTE COMANDOS DE "git add ." Y "git commit" `
 
